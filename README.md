@@ -1,0 +1,2 @@
+# .github
+Mahathaan for FOSS
